@@ -28,11 +28,15 @@ O conteúdo do site apresenta um breve resumo da vida de Ada Lovelace, suas cont
 
 
 ## 📂 Estrutura do projeto
+
 ada-lovelace-site
-│
+
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 └── images/
 
 ## 🎯 Objetivo do projeto
